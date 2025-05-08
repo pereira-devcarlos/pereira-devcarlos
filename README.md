@@ -13,4 +13,4 @@
 
 ## Contato  
 📫 **E-mail**: contato.devcarlos@gmail.com  
-🔗 **LinkedIn**: [Carlos Pereira]([link](https://www.linkedin.com/in/contatodevcarlos/))  
+🔗 **LinkedIn**: [Carlos Pereira](https://www.linkedin.com/in/contatodevcarlos/)  
