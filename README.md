@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 
 ### Projetos em destaque  
-- [AEDs I – Prática](link): Exercícios de estruturas de dados em C++.  
+- [AEDs I – Prática](https://github.com/pereira-devcarlos/aeds1): Exercícios de estruturas de dados em C++.  
 
 ## Contato  
 📫 **E-mail**: contato.devcarlos@gmail.com  
