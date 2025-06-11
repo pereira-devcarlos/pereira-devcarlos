@@ -28,6 +28,7 @@
 
 ## 🌟 Projetos em destaque
 
+- [Projeto - Imóveis](https://github.com/pereira-devcarlos/projeto-imoveis): Sistema em C++ para gerenciamento de imóveis, com foco em algoritmos e estruturas de dados.
 - [AEDs I – Prática](https://github.com/pereira-devcarlos/aeds1): Exercícios de algoritmos e estruturas de dados em C++.
 
 ---
