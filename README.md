@@ -30,6 +30,7 @@
 ## 🌟 Projetos em destaque
 
 - [Portfólio](https://github.com/pereira-devcarlos/portfolio): Portfólio pessoal com o objetivo de apresentar meus projetos, habilidades e objetivos profissionais.
+- [Projeto - Imagem](https://github.com/pereira-devcarlos/projeto-imagem): .
 - [Projeto - Imóveis](https://github.com/pereira-devcarlos/projeto-imoveis): Sistema em C++ para gerenciamento de imóveis, com foco em algoritmos e estruturas de dados.
 - [AEDs I – Prática](https://github.com/pereira-devcarlos/aeds1): Exercícios de algoritmos e estruturas de dados em C++.
 
