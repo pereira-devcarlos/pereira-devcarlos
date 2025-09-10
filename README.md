@@ -33,7 +33,8 @@
 - [Cadastro - Usuário](https://github.com/pereira-devcarlos/login-user): Sistema Web em PHP de Cadastro e Gerenciamento de Usuários, com o padrão de arquitetura MVC.
 - [Projeto - Imagem](https://github.com/pereira-devcarlos/projeto-imagem): Sistema em C++ para manipular imagens em tons de cinza a partir de arquivos-texto no formato PGM.
 - [Projeto - Imóveis](https://github.com/pereira-devcarlos/projeto-imoveis): Sistema em C++ para gerenciamento de imóveis, com foco em algoritmos e estruturas de dados.
-- [AEDs I – Prática](https://github.com/pereira-devcarlos/aeds1): Exercícios de algoritmos e estruturas de dados em C++.
+- [AEDs II](https://github.com/pereira-devcarlos/aedII): Disciplina prática e teórica de Algoritmos e Estruturas de Dados II.
+- [AEDs I – Prática](https://github.com/pereira-devcarlos/aeds1): Exercícios de algoritmos e estruturas de dados I em C++.
 
 ---
 
