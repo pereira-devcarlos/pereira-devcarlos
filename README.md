@@ -30,9 +30,9 @@
 
 ## 🌟 Projetos em destaque
 
+- [Sistema - Corrida](https://github.com/pereira-devcarlos/SistemaCorrida): O projeto simula a lógica de backend de um sistema de corridas (estilo Uber Moto).
 - [Cadastro - Usuário](https://github.com/pereira-devcarlos/login-user): Sistema Web em PHP de Cadastro e Gerenciamento de Usuários, com o padrão de arquitetura MVC.
 - [External – MergeSort](https://github.com/pereira-devcarlos/external-mergesort): Implementação didática de Ordenação Externa (external merge sort) em C.
-- [Projeto - Palíndromos](https://github.com/pereira-devcarlos/palindromo): Sistema em C capaz de verificar se uma palavra, frase ou número é um palíndromo.
 - [Projeto - Imagem](https://github.com/pereira-devcarlos/projeto-imagem): Sistema em C++ para manipular imagens em tons de cinza a partir de arquivos-texto no formato PGM.
 - [AEDs II](https://github.com/pereira-devcarlos/aedsII): Disciplina prática e teórica de Algoritmos e Estruturas de Dados II.
 
